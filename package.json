@@ -1,0 +1,9 @@
+{
+  "name": "Babel",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "dependencies": {
+  }
+}
